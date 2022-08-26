@@ -4,4 +4,3 @@ while(True):
     # si la entrada es "salir" se usa el comando break para salir del loop
     if(esc=='salir'):
         break
-print('Fin')
